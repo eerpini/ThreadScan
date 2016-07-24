@@ -1,0 +1,1 @@
+1. Remove the usage of __thread and instead use pthread_getspecific/pthread_setspecific

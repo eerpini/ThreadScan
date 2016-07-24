@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 
 #include "alloc.h"
-#include <alloca.h>
+#include <stdlib.h>
 #include <assert.h>
 #include "proc.h"
 #include <pthread.h>
